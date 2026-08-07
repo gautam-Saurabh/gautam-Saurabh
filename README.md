@@ -100,9 +100,9 @@ I'm **Saurabh Kumar Gautam**, a firmware developer and hardware enthusiast focus
 
 <br>
 
-*   **IoT Smart Cooling Jacket (Project Sheetal):** Served as Firmware Lead (Funded by ICMR-NIOH). Developed FreeRTOS-based ESP32 firmware for an $a+2^\circ\text{C}$ hysteresis thermal control loop, implementing a 500ms GPIO hardware safety interlock to strictly prevent thermal runaway.
-*   **Coal Mine Environmental IoT System:** Interfaced a multi-sensor array to a ThingSpeak dashboard utilizing non-blocking C++ `millis()` scheduling for WMO-compliant tracking. Highly optimized system battery endurance using 2.5-second ESP32 light sleep cycles.
-*   **Digital Logic Implementation:** Designed and simulated foundational sequential logic circuits (24-hour clocks, 4-bit adders, hardware registers) to verify finite state machine transitions using Xilinx Vivado, LTspice, and Deeds.
+- **[IoT Smart Cooling Jacket (Project Sheetal)](https://github.com/gautam-Saurabh/project_Sheetal):** Served as Firmware Lead (Funded by ICMR-NIOH). Developed FreeRTOS-based ESP32 firmware for an $a+2^\circ\text{C}$ hysteresis thermal control loop, implementing a 500ms GPIO hardware safety interlock to strictly prevent thermal runaway.
+- **Coal Mine Environmental IoT System:** Interfaced a multi-sensor array to a ThingSpeak dashboard utilizing non-blocking C++ `millis()` scheduling for WMO-compliant tracking. Highly optimized system battery endurance using 2.5-second ESP32 light sleep cycles.
+- **Digital Logic Implementation:** Designed and simulated foundational sequential logic circuits (24-hour clocks, 4-bit adders, hardware registers) to verify finite state machine transitions using Xilinx Vivado, LTspice, and Deeds.
 
 ---
 
